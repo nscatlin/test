@@ -1,8 +1,5 @@
 source 'https://rubygems.org'
 gem "github-pages"
-#gem "jekyll", ">= 3.6.3"
-
-
-#gem "webrick", "~> 1.7"
-
+ruby '2.7.0'
+gem "jekyll", ">= 3.6.3"
 gem "webrick", "~> 1.7"
