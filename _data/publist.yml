@@ -1,0 +1,44 @@
+
+- title: "The important contribution of transposable elements to phenotypic variation and evolution"
+  image: te_review_image.jpg
+  description:
+   Write in a description here.
+  authors:
+    NS Catlin, EB Josephs
+  highlight: 1
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1369526621001400
+    display: Catlin & Josephs (2022)
+
+- title: "Computational analysis of alternative splicing in plant genomes"
+  image: as_image.jpg
+  description: Write in a decription here
+  authors: QA Song, NS Catlin, WB Barbauk, S Li
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0378111918310606
+    display: Song et al. (2019)
+  highlight: 1
+
+
+- title: "Evolutionary relationships within the lamioid tribe Synandreae (Lamiaceae) based on multiple low-copy nuclear loci"
+  image: fig-1-full.png
+  description:
+   Write in a description here.
+  authors:
+    T Roy, NS Catlin, DMG Garner, PH Cantino A-C Scheen, C Lindqvist
+  highlight: 1
+  link:
+    url: https://peerj.com/articles/2220/
+    display: Roy et al. (2016)
+
+#- title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
+#  image: Pub_LiFeAs.png
+#  description:
+#    In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
+#  authors:
+#    MP Allan⋆ & AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang
+#  link:
+#    url: http://www.sciencemag.org/content/336/6081/563
+#    display: Science 336, 563 (2012)
+#  highlight: 1
+#  news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
