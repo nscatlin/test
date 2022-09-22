@@ -10,7 +10,7 @@ title: Nathan S. Catlin
 email: catlinna@msu.edu
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Nathan S. Catlin.
-baseurl: "/test"
+#baseurl: "/test"
 url: "nscatlin.github.io"
 
 include:
